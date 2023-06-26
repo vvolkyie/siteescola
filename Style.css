@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color:white;
+    background-color: lightslateGray;
+    color:black;
     font-size: 18px;
     font-style: bold;
 }
@@ -17,4 +17,21 @@ body {
 .topico{
     margin-right: 10cm;
     
+}
+
+
+.estudantes {
+    Display: flex /* display flexivel*/
+    flex-wrap: wrap; /* colocar itens na sequencia*/
+}
+
+.item {
+    margin-top: 30px; /*espaço superior de 10 pixels*/
+    margin-bottom 30px; /*espaço inferiorrior de 10 pixels*/
+    width: 300px:
+}
+
+.item img{
+    width: 200px;
+    heigth: 200px:
 }
