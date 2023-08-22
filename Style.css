@@ -16,14 +16,17 @@ body {
 
 .topico{
     margin-right: 10cm;
-    
+    margin-top: 100px;
+    font-size: 24px;
 }
-
+.estudantetitulo {
+    margin-left: 100px;
+}
 
 .estudantes {
     Display: flex /* display flexivel*/
-    flex-wrap: wrap; /* colocar itens na sequencia até não caber mais*/
-    j
+    Flex-wrap: wrap; /* colocar itens na sequencia até não caber mais*/
+    justify-content:center;
 }
 
 .item {
