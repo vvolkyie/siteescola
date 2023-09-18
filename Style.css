@@ -15,7 +15,7 @@ body {
 }
 
 .topico{
-    margin-right: 10px;
+    margin-right: 10cm;
     margin-top: 100px;
     font-size: 24px;
 }
@@ -23,19 +23,19 @@ body {
     margin-left: 100px;
 }
 
-.estudantes {
+.estudante {
     Display: flex; /* display flexivel*/
-    flex-wrap: wrap; /* colocar itens na sequencia até não caber mais*/
+    Flex-wrap: wrap; /* colocar itens na sequencia até não caber mais*/
     justify-content:center;
 }
 
-.item {
+.estudantes {
     margin-top: 30px; /*espaço superior de 10 pixels*/
     margin-bottom: 30px; /*espaço inferiorrior de 10 pixels*/
     width: 300px;
 }
 
-.item img{
+.estudantes img{
     width: 200px;
     height: 200px;
 }
@@ -69,6 +69,6 @@ justify-content: center;
     justify-content: center;
 }
 .turmatxt{
-    width: 550px;
+    width: 550%;
     margin-right: 10px;
 }
