@@ -1,5 +1,5 @@
 body {
-    background-color: #3a3a3a;
+    background-color: #12161d;
     color:rgb(255, 255, 255);
     font-size: 18px;
     font-style: bold;
@@ -47,7 +47,6 @@ margin-top: 50px; /*espaço superior a 10 pixels*/
 margin-bottom: 50px; /*espaço inferior a 10 pixels*/
 }
 .escola {
-    background-image: linear-gradient(black,grey);
 display: flex;
 align-items: center;
 justify-content: center;
@@ -63,7 +62,6 @@ justify-content: center;
     margin-bottom: 50px; /*espaço inferior a 10pixels*/
 }
 .turma{
-    background-image: linear-gradient(black,grey);
     display: flex;
     align-items: center;
     justify-content: center;
